@@ -1,4 +1,4 @@
-# 🎬 Mi Primera API REST con FastAPI
+# 🎬 Mi API REST con FastAPI
 
 Este proyecto es una API REST básica desarrollada con **FastAPI** y **Python**, que permite gestionar una lista de películas. Fue creada como parte de mi aprendizaje en el desarrollo backend y para practicar la creación de servicios web modernos.
 
